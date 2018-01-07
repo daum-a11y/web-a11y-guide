@@ -10,5 +10,4 @@ types:
     lists:
     - title: "1.1 적절한 대체텍스트 제공"
       url: "/mobile/1.1"
-   
 ---

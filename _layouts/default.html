@@ -24,7 +24,6 @@
       {% for bookmark in site.bookmark %}
       <ul>
         {% for type in bookmark.types %}
-
         <li>
           <p><a href="{{ site.baseurl }}{{ type.url }}">{{ type.title }}</a></p>
           <ul>
@@ -35,7 +34,6 @@
             {% endfor %}
           </ul>
         </li>
-
         {% endfor %}
       </ul>
       {% endfor %}
