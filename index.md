@@ -3,7 +3,8 @@ layout: default
 title: Web Accessibility
 ---
 
-## dk Web Accessibility
+## Web Accessibility
+> dk techin x kakao
 
 ## N스크린 차원의 웹 접근성
 현재 웹은 PC를 넘어, 스마트폰, 스마트 TV, 태블릿 등 다양한 디바이스에 대응하고 있습니다. 이러한 환경 변화에 따라 kakao는 N스크린 차원의 웹 접근성 지원을 고려하고 있습니다.
