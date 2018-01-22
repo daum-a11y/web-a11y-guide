@@ -6,10 +6,10 @@ title: Mobile Web 접근성 가이드
 ## Mobile Web 접근성 가이드
 
 * [1.1 적절한 대체텍스트 제공]({{ site.baseurl }}/mobile/1.1)
-* [검사항목 2.1 자막 제공]({{ site.baseurl }}/mobile/2.1)
-* [검사항목 3.1 색에 무관한 콘텐츠 인식]({{ site.baseurl }}/mobile/3.1)
-* [검사항목 4.1 텍스트 콘텐츠의 명도 대비]({{ site.baseurl }}/mobile/4.1)
-* [검사항목 5.1 초점 이동]({{ site.baseurl }}/mobile/5.1)
+* [2.1 자막 제공]({{ site.baseurl }}/mobile/2.1)
+* [3.1 색에 무관한 콘텐츠 인식]({{ site.baseurl }}/mobile/3.1)
+* [4.1 텍스트 콘텐츠의 명도 대비]({{ site.baseurl }}/mobile/4.1)
+* [5.1 초점 이동]({{ site.baseurl }}/mobile/5.1)
 * [6.1 제목 제공]({{ site.baseurl }}/mobile/6.1)
 * [7.1 기본 언어 표시]({{ site.baseurl }}/mobile/7.1)
 * [8.1 표의 구성]({{ site.baseurl }}/mobile/8.1)
